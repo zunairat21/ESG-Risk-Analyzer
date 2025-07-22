@@ -64,8 +64,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run ESG_app.py
 ```
-
-❓ Sample RAG Questions
+## ❓ **Sample RAG Questions**
 
 You can try asking the following questions in the app to test the Retrieval-Augmented Generation (RAG) feature:
 
